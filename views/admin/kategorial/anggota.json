@@ -1,0 +1,93 @@
+[
+    {
+        "nij": "040400101",
+        "nkj": "0404001",
+        "nama": "Samuel Hilli",
+        "tempat_lahir": "Kupang",
+        "tanggal_lahir": "1952-04-11",
+        "jenis_kelamin": "Laki-Laki",
+        "pendidikan_terakhir": "SD",
+        "status_dalam_kel": "Kepala Keluarga",
+        "pekerjaan": "WIRASWASTA",
+        "kode_rayon": "0404",
+        "umur": 69
+    },
+    {
+        "nij": "040400102",
+        "nkj": "0404001",
+        "nama": "Sarlota Hilli-Le'u",
+        "tempat_lahir": "Kupang",
+        "tanggal_lahir": "1956-11-26",
+        "jenis_kelamin": "Perempuan",
+        "pendidikan_terakhir": "SD",
+        "status_dalam_kel": "Istri",
+        "pekerjaan": "IBU RUMAH TANGGA",
+        "kode_rayon": "0404",
+        "umur": 64
+    },
+    {
+        "nij": "040400103",
+        "nkj": "0404001",
+        "nama": "Briliant Excel Hilli",
+        "tempat_lahir": "Kupang",
+        "tanggal_lahir": "2007-07-02",
+        "jenis_kelamin": "Laki-Laki",
+        "pendidikan_terakhir": "SD",
+        "status_dalam_kel": "Anak",
+        "pekerjaan": "PELAJAR",
+        "kode_rayon": "0404",
+        "umur": 14
+    },
+    {
+        "nij": "040400201",
+        "nkj": "0404002",
+        "nama": "Thomas Edison Masae",
+        "tempat_lahir": "Rote",
+        "tanggal_lahir": "1968-07-19",
+        "jenis_kelamin": "Laki-Laki",
+        "pendidikan_terakhir": "SMA\/SMK",
+        "status_dalam_kel": "Kepala Keluarga",
+        "pekerjaan": null,
+        "kode_rayon": "0404",
+        "umur": 53
+    },
+    {
+        "nij": "040400203",
+        "nkj": "0404002",
+        "nama": "Matias Y. P. Masae",
+        "tempat_lahir": "Kupang",
+        "tanggal_lahir": "1975-02-22",
+        "jenis_kelamin": "Laki-Laki",
+        "pendidikan_terakhir": "SMA\/SMK",
+        "status_dalam_kel": "Family Lain",
+        "pekerjaan": "SWASTA",
+        "kode_rayon": "0404",
+        "umur": 46
+    },
+    {
+        "nij": "040400701",
+        "nkj": "0404007",
+        "nama": "Antonius Smaut",
+        "tempat_lahir": "",
+        "tanggal_lahir": "0000-00-00",
+        "jenis_kelamin": "",
+        "pendidikan_terakhir": "",
+        "status_dalam_kel": "Kepala Keluarga",
+        "pekerjaan": "",
+        "kode_rayon": "0404",
+        "umur": 2021
+    },
+    {
+        "nij": "040400801",
+        "nkj": "0404008",
+        "nama": "Antonius Smaut",
+        "tempat_lahir": "Oefafi",
+        "tanggal_lahir": "1968-08-01",
+        "jenis_kelamin": "Laki-Laki",
+        "pendidikan_terakhir": "SMA\/SMK",
+        "status_dalam_kel": "Kepala Keluarga",
+        "pekerjaan": "WIRASWASTA",
+        "kode_rayon": "0404",
+        "umur": 53
+    }
+]
